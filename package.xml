@@ -1,0 +1,29 @@
+<package format="2">
+<name>ToFNest_rt</name>
+<version>0.0.0</version>
+<description>The real time test of ToFNest package</description>
+<maintainer email="szilard.molnar@student.utcluj.ro"> Szilard Molnar </maintainer>
+<license>UTCN</license>
+<buildtool_depend>catkin</buildtool_depend>
+<build_depend>cv_bridge</build_depend>
+<build_depend>opencv</build_depend>
+<build_depend>rospy</build_depend>
+<build_depend>sensor_msgs</build_depend>
+<build_depend>std_msgs</build_depend>
+<build_depend>pcl_conversions</build_depend>
+<build_depend>pcl_ros</build_depend>
+<build_export_depend>cv_bridge</build_export_depend>
+<build_export_depend>opencv</build_export_depend>
+<build_export_depend>rospy</build_export_depend>
+<build_export_depend>sensor_msgs</build_export_depend>
+<build_export_depend>std_msgs</build_export_depend>
+<build_export_depend>pcl</build_export_depend>
+<exec_depend>cv_bridge</exec_depend>
+<exec_depend>opencv</exec_depend>
+<exec_depend>rospy</exec_depend>
+<exec_depend>sensor_msgs</exec_depend>
+<exec_depend>std_msgs</exec_depend>
+<exec_depend>pcl</exec_depend>
+<exec_depend>pcl_conversions</exec_depend>
+<exec_depend>pcl_ros</exec_depend>
+</package>
