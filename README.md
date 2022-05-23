@@ -2,7 +2,10 @@
 
 This repo is the extension of the original ToFNest repo: https://github.com/molnarszilard/ToFNest
 
+You can download a bag file (~5GB), that contains the depth topic (/pico_zense/depth/image_raw).
 https://drive.google.com/file/d/1aQ2M3FsPrUHNpcYEZz-6i8YmFC5fWTEB/view?usp=sharing
+```python train.py```
+
 
 ## Citations
 ### Citing this work
